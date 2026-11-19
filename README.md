@@ -1,4 +1,4 @@
-https://leave-management-o0xc.onrender.com/# Leave Management System
+https://shivapriya-m.github.io/Leave-Management-System/# Leave Management System
 
 ## Requirements
 - Node.js (LTS recommended)
